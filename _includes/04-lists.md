@@ -1,5 +1,5 @@
--Favorite food
-  -steak
-    -cheeseburgers
-      -chicken
+- Favorite food
+  - steak
+    - cheeseburgers
+      - chicken
       
